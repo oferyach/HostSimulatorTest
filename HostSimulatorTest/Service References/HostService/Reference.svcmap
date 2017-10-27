@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fd29c2c8-54ca-46be-be9c-eb526e09a490" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/HostSimulator/HostService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HostService.wsdl" MetadataType="Wsdl" ID="71a8418c-d4ab-435e-88a9-1f16471aabec" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HostSimulator/HostService/?wsdl" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="4d79d0fb-40c1-474d-9358-baad556654b3" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HostSimulator/HostService/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="0dd9ee34-6d9e-4713-b92a-1f9e9da79b92" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HostSimulator/HostService/?disco" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="22f89e96-71e5-427a-aa85-f4a1c8310f11" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HostSimulator/HostService/?xsd=xsd2" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="0f1e2633-d505-4263-91ac-508cd6a4c2f5" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/HostSimulator/HostService/?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
